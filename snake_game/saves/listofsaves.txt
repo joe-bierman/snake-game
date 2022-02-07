@@ -1,0 +1,5 @@
+./saves/game.game
+./saves/badgame.game
+./saves/firstsave.game
+./saves/myfile.game
+./saves/fake.game
